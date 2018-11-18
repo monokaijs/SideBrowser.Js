@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules\\electron\\dist\\electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron-navigation": "^1.5.8"
+  }
+}
